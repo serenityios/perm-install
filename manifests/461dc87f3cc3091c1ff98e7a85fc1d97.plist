@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://release-assets.githubusercontent.com/github-production-release-asset/1101979437/bcd04c69-1de5-4a79-a72c-eaa24ccd8c32?sp=r&amp;sv=2018-11-09&amp;sr=b&amp;spr=https&amp;se=2025-11-22T21%3A06%3A35Z&amp;rscd=attachment%3B+filename%3DFitnessAI-14.6.ipa&amp;rsct=application%2Foctet-stream&amp;skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&amp;sktid=398a6654-997b-47e9-b12b-9515b896b4de&amp;skt=2025-11-22T20%3A06%3A22Z&amp;ske=2025-11-22T21%3A06%3A35Z&amp;sks=b&amp;skv=2018-11-09&amp;sig=rn4wBCeXw%2BKNnDa%2B%2BbJudb9oxdJnWpwmIZOcWAbhupY%3D&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2Mzg0NTU4MiwibmJmIjoxNzYzODQxOTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.brCnSvjR4ibeHJucZBiTeqHY_6OVWog4_AiL2IjuWhk&amp;response-content-disposition=attachment%3B%20filename%3DFitnessAI-14.6.ipa&amp;response-content-type=application%2Foctet-stream</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.jakemor.firness-ai</string>
+          <key>bundle-version</key>
+          <string>14.6</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>FitnessAI</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
