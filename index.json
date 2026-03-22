@@ -1,0 +1,67 @@
+{
+  "name": "Aether IconPack",
+  "description": "Minimal cyan glow icon pack with deep AMOLED background.",
+  "authors": [
+    {
+      "name": "jteell x ChatGPT"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#0b0f14","#0b0f14","#0b0f14"],
+    "BACKGROUND_SECONDARY": ["#0f141a","#0f141a","#0f141a"],
+    "BACKGROUND_TERTIARY": ["#070a0d","#070a0d","#070a0d"],
+    "BACKGROUND_FLOATING": ["#0f141a","#0f141a","#0f141a"],
+
+    "HEADER_PRIMARY": ["#ffffff","#ffffff","#ffffff"],
+    "HEADER_SECONDARY": ["#9aa0a6","#9aa0a6","#9aa0a6"],
+
+    "TEXT_NORMAL": ["#e4e6eb","#e4e6eb","#e4e6eb"],
+    "TEXT_MUTED": ["#9aa0a6","#9aa0a6","#9aa0a6"],
+    "TEXT_LINK": ["#5be7ff","#5be7ff","#5be7ff"],
+
+    "INTERACTIVE_NORMAL": ["#5be7ff","#5be7ff","#5be7ff"],
+    "INTERACTIVE_HOVER": ["#7cf0ff","#7cf0ff","#7cf0ff"],
+    "INTERACTIVE_ACTIVE": ["#5be7ff","#5be7ff","#5be7ff"],
+    "INTERACTIVE_MUTED": ["#3a3f45","#3a3f45","#3a3f45"],
+
+    "CHANNEL_ICON": ["#5be7ff","#5be7ff","#5be7ff"],
+    "CHANNELS_DEFAULT": ["#8e9297","#8e9297","#8e9297"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#5be7ff22","#5be7ff22","#5be7ff22"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#5be7ff33","#5be7ff33","#5be7ff33"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5be7ff55","#5be7ff55","#5be7ff55"],
+
+    "SCROLLBAR_THIN_THUMB": ["#5be7ff66","#5be7ff66","#5be7ff66"],
+    "SCROLLBAR_THIN_TRACK": ["#00000000","#00000000","#00000000"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#5be7ff",
+    "PRIMARY_200": "#7cf0ff",
+    "PRIMARY_300": "#9ff6ff",
+    "PRIMARY_400": "#c4fbff",
+    "PRIMARY_500": "#e6feff",
+
+    "BRAND_500": "#5be7ff",
+    "BRAND_360": "#7cf0ff",
+
+    "BLACK_500": "#000000",
+    "WHITE_500": "#ffffff"
+  },
+  "background": {
+    "url": "https://i.imgur.com/8QfQZ6T.jpeg"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "icons": {
+      "ic_mic_neutral": "#5be7ff",
+      "ic_mic_muted_neutral": "#5be7ff",
+      "ic_video": "#5be7ff",
+      "ic_video_disabled": "#5be7ff",
+      "ic_soundboard": "#5be7ff",
+      "ic_soundboard_muted": "#5be7ff"
+    },
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2
+}
